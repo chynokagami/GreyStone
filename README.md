@@ -4,7 +4,7 @@
 
 # Greystone
 
-**Unreal Engine 5 で開発中のソウルライク・アクション RPG**
+**Unreal Engine 5 で開発中のアクション RPG**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-0E1128?logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
@@ -18,7 +18,7 @@
 ## 概要
 
 **Greystone** は、Unreal Engine 5 と C++ で開発しているソウルライク・アクション RPG です。
-商用の GAS（Gameplay Ability System）プラグインに依存せず、軽量な独自アビリティ基盤 **「Mini-GAS」** を自作することで、ソウルライク特有の重厚な戦闘の手触りと、拡張しやすい設計の両立を目指しています。
+GAS（Gameplay Ability System）プラグインに依存せず、軽量な独自アビリティ基盤 **「Mini-GAS」** を自作することで、ソウルライク特有の重厚な戦闘の手触りと、拡張しやすい設計の両立を目指しています。
 
 本リポジトリは、ゲームプログラマーとしての就職活動用ポートフォリオとして公開しています。
 
@@ -77,7 +77,7 @@ git clone https://github.com/<your-account>/Greystone.git
 | ライトアタック | 左クリック |
 | ヘビーアタック | 右クリック（長押しでチャージ） |
 | 回避（ローリング） | `Space` |
-| ガード | `Shift` |
+| ガード | `e` |
 
 <!-- 実際のキーバインドに合わせて編集してください -->
 
@@ -91,15 +91,11 @@ git clone https://github.com/<your-account>/Greystone.git
 
 ## クレジット
 
-- キャラクター: UE5 Mannequin (Quinn)
+- キャラクター: Fab Marketplace Paragon GreyStone 
 - アニメーション: Fab Marketplace
 
-## ライセンス
-
-本プロジェクトのソースコードのライセンスは別途指定予定です。
-サードパーティ製アセット（Fab Marketplace など）は、それぞれのライセンス条項に従います。リポジトリには含まれていない場合があります。
 
 ## 連絡先
 
-- GitHub: [@your-account](https://github.com/your-account)
-- Email: your-email@example.com
+- GitHub: https://github.com/chynokagami
+- Email: chynokagami@gmail.com
