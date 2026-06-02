@@ -1,10 +1,8 @@
-**日本語** | [English](README.en.md) | [简体中文](README.zh-CN.md)
-
 <div align="center">
 
 # Greystone
 
-**Unreal Engine 5 で開発中のアクション RPG**
+**Unreal Engine 5.7.4 で開発中のアクション RPG**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-0E1128?logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
@@ -50,14 +48,12 @@ GAS（Gameplay Ability System）プラグインに依存せず、軽量な独自
 
 ## スクリーンショット
 
-<!-- プレイ映像の GIF やスクリーンショットを配置してください 例: -->
-<!-- ![Gameplay](docs/images/gameplay.gif) -->
+<img width="1672" height="939" alt="image" src="https://github.com/user-attachments/assets/a73a983a-9b42-438a-a55d-1b410c9aeba7" />
 
-> 準備中
 
 ## ビルド方法
 
-> **必要環境**: Unreal Engine 5.x / Visual Studio 2022（C++ ワークロード）/ Git LFS
+> **必要環境**: Unreal Engine 5.7.4 / Visual Studio 2022（C++ ワークロード）/ Git LFS
 
 ```bash
 git clone https://github.com/<your-account>/Greystone.git
@@ -79,7 +75,6 @@ git clone https://github.com/<your-account>/Greystone.git
 | 回避（ローリング） | `Space` |
 | ガード | `e` |
 
-<!-- 実際のキーバインドに合わせて編集してください -->
 
 ## ロードマップ
 
@@ -88,6 +83,10 @@ git clone https://github.com/<your-account>/Greystone.git
 - [ ] ロックオン
 - [ ] レベルデザイン
 - [ ] UI / HUD
+
+## ライセンス
+
+本リポジトリはポートフォリオとして公開しています。ソースコードの無断使用・転載はご遠慮ください。
 
 ## クレジット
 
